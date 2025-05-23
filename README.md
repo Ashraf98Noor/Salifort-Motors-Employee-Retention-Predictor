@@ -66,7 +66,7 @@ The HR dataset includes the following fields for each employee:
 
 * One-hot encoded categorical variables
 * Scaled numerical features
-* Created interaction terms (e.g., `OverTime × JobSatisfaction`)
+* Created interaction terms 
 * Addressed class imbalance with oversampling techniques
 
 ### 4. Modeling & Evaluation (Execute)
@@ -74,20 +74,18 @@ The HR dataset includes the following fields for each employee:
 * Split data into training and test sets
 * Trained logistic regression classifier; Random Forest model implementation and comparison will be done next
 * Optimized hyperparameters via grid search
-* Evaluated performance: accuracy, precision, recall, F1-score, ROC-AUC
+* Evaluated performance: accuracy, precision, recall, F1-score
 * Visualized confusion matrix and feature importances
 
 ## 📈 Results
 
 * **Model**: Logistic Regression (Random Forest implementation planned soon)
-* **Test ROC-AUC**: 0.82
 * **Top Predictive Features**:
 
   * YearsAtCompany
   * OverTime
   * JobSatisfaction
 
-See `notebooks/retention_predictor.ipynb` for detailed plots and metrics.
 
 ## 📝 Conclusions & Recommendations
 
@@ -96,10 +94,10 @@ See `notebooks/retention_predictor.ipynb` for detailed plots and metrics.
 3. **Workload Management**: Monitor and limit overtime hours.
 
 ## 🚀 Future Work
-
-* Test advanced models (e.g., Random Forest, XGBoost).
-* Incorporate external data (e.g., economic indicators).
-* Deploy as a web app for real-time HR dashboards.
+* Implement and compare a Random Forest classifier
+* Test advanced models (e.g., XGBoost, LightGBM)
+* Incorporate external data (e.g., economic indicators)
+* Deploy as a web app for real-time HR dashboards
 
 ## 📚 References
 
