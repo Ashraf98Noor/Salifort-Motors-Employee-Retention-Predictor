@@ -14,7 +14,7 @@ Key objectives:
 
 ## 📋 Table of Contents
 
-* [Business Problem](##business-problem)
+* [Business Problem](##💼-business-problem)
 * [Data Description](##data-description)
 * [Project Structure](##project-structure)
 * [Methodology](##methodology)
@@ -26,7 +26,7 @@ Key objectives:
 * [Results](##results)
 * [Conclusions & Recommendations](##conclusions--recommendations)
 * [Future Work](##future-work)
-* [References](##references)
+* [References](##📚-references)
 
 ## 💼 Business Problem
 
