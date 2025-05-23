@@ -14,19 +14,19 @@ Key objectives:
 
 ## 📋 Table of Contents
 
-* [Business Problem](#business-problem)
-* [Data Description](#data-description)
-* [Project Structure](#project-structure)
-* [Methodology](#methodology)
+* [Business Problem](##business-problem)
+* [Data Description](##data-description)
+* [Project Structure](##project-structure)
+* [Methodology](##methodology)
 
   * [1. Business Understanding (Plan)](#1-business-understanding-plan)
   * [2. Data Preparation & EDA (Analyze)](#2-data-preparation--eda-analyze)
   * [3. Feature Engineering (Construct)](#3-feature-engineering-construct)
   * [4. Modeling & Evaluation (Execute)](#4-modeling--evaluation-execute)
-* [Results](#results)
-* [Conclusions & Recommendations](#conclusions--recommendations)
-* [Future Work](#future-work)
-* [References](#references)
+* [Results](##results)
+* [Conclusions & Recommendations](##conclusions--recommendations)
+* [Future Work](##future-work)
+* [References](##references)
 
 ## 💼 Business Problem
 
