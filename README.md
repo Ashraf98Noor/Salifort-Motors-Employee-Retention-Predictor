@@ -16,8 +16,7 @@ Key objectives:
 
 * [Business Problem](#-business-problem)
 * [Data Description](#-data-description)
-* [Project Structure](#-project-structure)
-* [Methodology](#-methodology)
+* [Methodology](#-methodology-pace-framework)
 
   * [1. Business Understanding (Plan)](#1-business-understanding-plan)
   * [2. Data Preparation & EDA (Analyze)](#2-data-preparation--eda-analyze)
