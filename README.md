@@ -49,8 +49,6 @@ The HR dataset includes the following fields for each employee:
 
 *Note: A full data dictionary is available in the notebook.*
 
-```
-
 ## 🧭 Methodology
 
 ### 1. Business Understanding (Plan)
