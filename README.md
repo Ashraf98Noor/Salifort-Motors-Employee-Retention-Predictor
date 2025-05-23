@@ -106,8 +106,8 @@ Implementing these strategies could reduce annual turnover by an estimated 15%, 
 ## 📚 References
 
 * Google Advanced Data Analytics Course Materials
-* Scikit-learn Documentation: [https://scikit-learn.org/](https://scikit-learn.org/)
-* HR Analytics Job Prediction Dataset from Kaggle [https://www.kaggle.com/datasets/mfaisalqureshi/hr-analytics-and-job-prediction/data?select=HR_comma_sep.csv]
+* [Scikit-learn Documentation](https://scikit-learn.org/)
+* [HR Analytics Job Prediction Dataset from Kaggle](https://www.kaggle.com/datasets/mfaisalqureshi/hr-analytics-and-job-prediction/data?select=HR_comma_sep.csv)
 
 ---
 
