@@ -20,8 +20,8 @@ Key objectives:
 * [Methodology](#methodology)
 
   * [1. Business Understanding (Plan)](#1-business-understanding-plan)
-  * [2. Data Preparation & EDA (Construct)](#2-data-preparation--eda-construct)
-  * [3. Feature Engineering](#3-feature-engineering)
+  * [2. Data Preparation & EDA (Analyze)](#2-data-preparation--eda-construct)
+  * [3. Feature Engineering (Construct)](#3-feature-engineering)
   * [4. Modeling & Evaluation (Execute)](#4-modeling--evaluation-execute)
 * [Results](#results)
 * [Conclusions & Recommendations](#conclusions--recommendations)
