@@ -49,20 +49,20 @@ The HR dataset includes the following fields for each employee:
 
 *Note: A full data dictionary is available in the notebook.*
 
-## 🧭 Methodology
+## 🧭 Methodology - PACE Framework
 
 ### 1. Business Understanding (Plan)
 
 * Defined project objectives and stakeholder requirements
 * Estimated turnover cost impact on revenue
 
-### 2. Data Preparation & EDA (Construct)
+### 2. Data Preparation & EDA (Analyze)
 
 * Loaded and inspected raw HR data
 * Handled missing values and duplicates
 * Performed descriptive statistics and visualizations
 
-### 3. Feature Engineering
+### 3. Feature Engineering (Construct)
 
 * One-hot encoded categorical variables
 * Scaled numerical features
