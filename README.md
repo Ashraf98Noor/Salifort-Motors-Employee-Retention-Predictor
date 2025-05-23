@@ -24,8 +24,8 @@ Key objectives:
   * [3. Feature Engineering (Construct)](#3-feature-engineering-construct)
   * [4. Modeling & Evaluation (Execute)](#4-modeling--evaluation-execute)
 * [Results](#-results)
-* [Conclusions & Recommendations](-#conclusions--recommendations)
-* [Future Work](-#future-work)
+* [Conclusions & Recommendations](#-conclusions--recommendations)
+* [Future Work](#-future-work)
 * [References](#-references)
 
 ## 💼 Business Problem
