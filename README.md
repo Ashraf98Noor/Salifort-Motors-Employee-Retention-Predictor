@@ -26,7 +26,7 @@ Key objectives:
 * [Results](##results)
 * [Conclusions & Recommendations](##conclusions--recommendations)
 * [Future Work](##future-work)
-* [References](##📚-references)
+* [References](##📚--references)
 
 ## 💼 Business Problem
 
