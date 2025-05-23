@@ -95,8 +95,6 @@ See `notebooks/retention_predictor.ipynb` for detailed plots and metrics.
 2. **Mentorship Programs**: Focus on staff with 1–3 years tenure.
 3. **Workload Management**: Monitor and limit overtime hours.
 
-Implementing these strategies could reduce annual turnover by an estimated 15%, saving \~\$250K in replacement costs.
-
 ## 🚀 Future Work
 
 * Test advanced models (e.g., Random Forest, XGBoost).
